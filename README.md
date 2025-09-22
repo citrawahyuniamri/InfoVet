@@ -1,22 +1,25 @@
-# InfoVet
-## Key Features
-Answers inquiries about UPTD Klinik Hewan
-Sumatera Utara
-Provides information on services, operating hours,
-and clinic address
-Implements NLP to understand user queries
-Appointment scheduling
+# 🐾 InfoVet – Veterinary Information Chatbot
 
-## Technologies Used
-Programming Language: Python
-NLP Framework: TensorFlow
-Word Embedding Model: GloVe
-Database: MySQL
-API & Bot Integration: Telegram Bot API
-Deployment: Flask
+**InfoVet** is a **Telegram-based chatbot** designed to provide information about veterinary clinic services and pet health. It helps pet owners get fast, accurate, and reliable answers related to pet care, while also making it easier to schedule veterinary appointments.  
 
-## Impact
-Makes it easier for pet owners to find veterinary services
-Reduces customer service workload with automated
-information
-Potential for further development, such as online consultation
+---
+
+## ✨ Key Features
+🔹 **Interactive Q&A** – Answers questions about pet health and clinic services.  
+🔹 **Verified Information** – Data sources come from local veterinary clinics and *PetCoach*, with answers validated by licensed veterinarians.  
+🔹 **Appointment Scheduling** – Users can book clinic visits directly through the chatbot.  
+🔹 **Easy Access** – Available anytime, anywhere via Telegram.  
+
+---
+
+## 🛠️ Technologies Used
+- **Word Embedding:** [GloVe](https://nlp.stanford.edu/projects/glove/)  
+- **NLP Algorithm:** Long Short-Term Memory (LSTM)  
+- **ML/DL Framework:** TensorFlow / Keras  
+- **Chatbot Platform:** Telegram Bot API  
+- **Dataset:** Local veterinary clinics & PetCoach (vet-validated answers)  
+
+---
+<img width="590" height="761" alt="image" src="https://github.com/user-attachments/assets/bc1ae030-5773-43ab-b0ee-aad8980066b9" />
+<img width="782" height="416" alt="image" src="https://github.com/user-attachments/assets/53232541-7583-43e9-8d61-35efce1ca192" />
+
