@@ -1,11 +1,11 @@
 # InfoVet
 ## Key Features
-➢ Answers inquiries about UPTD Klinik Hewan
+Answers inquiries about UPTD Klinik Hewan
 Sumatera Utara
-➢ Provides information on services, operating hours,
+Provides information on services, operating hours,
 and clinic address
-➢ Implements NLP to understand user queries
-➢ Appointment scheduling
+Implements NLP to understand user queries
+Appointment scheduling
 
 ## Technologies Used
 Programming Language: Python
