@@ -20,6 +20,4 @@
 - **Dataset:** Local veterinary clinics & PetCoach (vet-validated answers)  
 
 ---
-<img width="390" height="561" alt="image" src="https://github.com/user-attachments/assets/bc1ae030-5773-43ab-b0ee-aad8980066b9" />
-<img width="582" height="416" alt="image" src="https://github.com/user-attachments/assets/53232541-7583-43e9-8d61-35efce1ca192" />
 
