@@ -16,7 +16,8 @@
 - **Word Embedding:** [GloVe](https://nlp.stanford.edu/projects/glove/)  
 - **NLP Algorithm:** Long Short-Term Memory (LSTM)  
 - **ML/DL Framework:** TensorFlow / Keras  
-- **Chatbot Platform:** Telegram Bot API  
+- **Chatbot Platform:** Telegram Bot API
+- **DBMS:** MySQL
 - **Dataset:** Local veterinary clinics & PetCoach (vet-validated answers)  
 
 ---
